@@ -1,0 +1,7 @@
+etc/eac/x509/*
+etc/eac/cvc/*
+usr/bin/eactest
+usr/bin/example
+usr/share/doc/openpace/_sources/*
+usr/lib/*/libeac.la
+usr/lib/*/libeac.a

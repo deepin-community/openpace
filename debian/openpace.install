@@ -1,0 +1,4 @@
+#!/usr/bin/dh-exec
+docs/_sources/index.txt => /usr/share/doc/openpace/README.txt
+/usr/share/man
+/usr/bin/cvc-*
